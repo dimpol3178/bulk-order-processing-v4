@@ -1,0 +1,6 @@
+orderId | customerId | orderDate | productCode | quantity | pricePerUnit
+ORD001 | CUST1001 | 2024-06-10 | P001 | 2 | 25.00
+ORD002 | CUST1002 | 2024-06-11 | P002 | 1 | 50.00
+ORD003 | CUST1001 | 2024-06-11 | P003 | 3 | 15.00
+ORD004 | CUST1003 | 2024-06-12 | P004 | 5 | 10.00
+ORD005 | CUST1002 | 2024-06-12 | P001 | 4 | 25.00
